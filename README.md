@@ -17,7 +17,7 @@ Vikt    ...kg
 
 Yrkeskategori ...
 
-####Kost och livsstil
+####Kost och tobaksvanor
 
 #####1. Jag äter oftast hälsosamt.
 
