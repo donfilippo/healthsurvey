@@ -109,7 +109,7 @@ Stämmer inte alls 12345 Stämmer helt
 
 0 gånger i veckan   1 gång i veckan   2-3 gånger i veckan   4-5 gånger i veckan   mer än 5 gånger i veckan
 
-#####20. Jag är nöjd med hur ofta jag har motionerat de senaste tre månaderna.
+#####20. Jag är nöjd de motionsvanor jag har haft under de senaste tre månaderna.
 
 Stämmer inte alls 12345 Stämmer helt
 
@@ -121,7 +121,7 @@ Stämmer inte alls 12345 Stämmer helt
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####23. Under de senaste tre månaderna har haft goda möjligheter att utföra motionsaktiviteter som passar mig.
+#####23. Under de senaste tre månaderna har jag haft goda möjligheter att utföra motionsaktiviteter som passar mig.
 
 Stämmer inte alls 12345 Stämmer helt
 
@@ -135,7 +135,7 @@ Stämmer inte alls 12345 Stämmer helt
 
 Mycket ofta 12345 Mycket sällan
 
-#####26. Under de senaste tre månaderna har jag känt ångest.
+#####26. Under de senaste tre månaderna har jag haft ångest.
 
 Mycket ofta 12345 Mycket sällan
 
@@ -143,41 +143,41 @@ Mycket ofta 12345 Mycket sällan
 
 Mycket ofta 12345 Mycket sällan
 
-#####28. Jag får hjärtklappning även då jag inte anstränger mig fysiskt.
+#####28. Under de senaste tre månaderna har jag fått hjärtklappning utan att jag har ansträngt mig fysiskt.
 
-Mycket ofta 12345 Mycket sällan
+Mycket ofta 12345 aldrig
 
 #####29. Under de senaste tre månaderna har jag besvärats av huvudvärk.
 
-Mycket ofta 12345 Mycket sällan
+Mycket ofta 12345 aldrig
 
 #####30. Under de senaste tre månaderna har jag besvärats av trötthet.
 
 Mycket ofta 12345 Mycket sällan
 
-#####31. Under de senaste tre månaderna har jag haft svårt att koncentrera mig.
+#####31. Under de senaste tre månaderna har jag sovit dåligt.
 
 Mycket ofta 12345 Mycket sällan
 
-#####32. Under de senaste tre månaderna har jag besvärats av värk i ryggen.
+#####32. Under de senaste tre månaderna har jag haft svårt att koncentrera mig.
 
 Mycket ofta 12345 Mycket sällan
 
-#####33. Under de senaste tre månaderna har jag besvärats av värk i nacken.
+#####33. Under de senaste tre månaderna har jag besvärats av värk i ryggen.
 
-Mycket ofta 12345 Mycket sällan
+Mycket ofta 12345 Aldrig
 
-#####34. Under de senaste tre månaderna har jag besvärats av värk i axlarna.
+#####34. Under de senaste tre månaderna har jag besvärats av värk i nacke/skuldror.
 
-Mycket ofta 12345 Mycket sällan
+Mycket ofta 12345 Aldrig
 
 #####35. Under de senaste tre månaderna har jag haft magbesvär.
 
-Mycket ofta 12345 Mycket sällan
+Mycket ofta 12345 Aldrig
 
 #####36. Under de senaste tre månaderna har jag haft ledbesvär.
 
-Mycket ofta 12345 Mycket sällan
+Mycket ofta 12345 Aldrig
 
 ####Allmän hälsa
 
@@ -197,9 +197,14 @@ Stämmer inte alls 12345 Stämmer helt
 
 Stämmer inte alls 12345 Stämmer helt
 
+
+Anteckningar:
+Fråga 28: Kan behöva omformuleras. Formuleringen "utan att jag har ansträngt mig fysiskt" låter konstig.
+Fråga 31: "Kanske borde vara: Under de senaste tre månaderna har jag haft svårt att somna."
+
 Kopplingar mellan frågor:
 Negativt svar = 1-2
 Neutralt svar = 3
 Positivt svar = 4-5
 
-30 - fråga om sömn (ange nummer): Om negativt svar på 30 sammanfaller med positivt svar på fråga om sömn (ange nummer) finns möjlighet att dra slutsatser om t.ex. stress.
+30 - 31: Om negativt svar på 30 sammanfaller med positivt svar på 31 finns möjlighet att dra slutsatser om t.ex. stress.
