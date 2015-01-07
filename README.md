@@ -7,15 +7,15 @@ För att din arbetsgivare ska kunna använda svarsresultaten som underlag för �
 
 Alla uppgifter behandlas konfidentiellt och all datainsamling sker anonymt, vilket innebär att dina svar inte knyts an till dina användaruppgfiter. Varken vi på Care of Company eller din arbetsgivare kommer att kunna se några enskilda svarsformulär.
 
-Kön   Kvinna    Man
+Kontrollera så att följande uppgifter är korrekta:
 
-Ålder   ...år
+Längd ...cm
 
-Längd   ...cm
-
-Vikt    ...kg
+Vikt ...kg
 
 Yrkeskategori ...
+
+Epostadress ...
 
 ####Kost och tobaksvanor
 
