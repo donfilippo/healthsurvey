@@ -87,7 +87,7 @@ Mycket ofta 12345 Mycket sällan
 
 Mycket ofta 12345 Mycket sällan
 
-#####15. Under de senaste tre månaderna har jag tenderat att skjuta upp mina åtaganden till sista stund.
+#####15. Jag tenderar att skjuta upp mina åtaganden till sista stund.
 
 Mycket ofta 12345 Mycket sällan
 
@@ -105,7 +105,7 @@ Stämmer inte alls 12345 Stämmer helt
 
 ####Fysisk aktivitet och motion
 
-#####19. Under de senaste två månaderna har jag, i genomsnitt motionerat:
+#####19. Under de senaste tre månaderna har jag, i genomsnitt motionerat:
 
 0 gånger i veckan   1 gång i veckan   2-3 gånger i veckan   4-5 gånger i veckan   mer än 5 gånger i veckan
 
