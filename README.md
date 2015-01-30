@@ -43,7 +43,7 @@ Aldrig  Någon gång ibland 1-5 snus per dag  6-10 snus per dag över 10 snus pe
 
 ####Psykisk hälsa
 
-#####6. Under de senaste tre månaderna har jag haft allmänt bra självkänsla.
+#####6. Jag har allmänt bra självkänsla.
 
 Beskrivning av självkänsla:
 
