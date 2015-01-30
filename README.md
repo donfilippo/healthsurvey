@@ -129,55 +129,57 @@ Stämmer inte alls 12345 Stämmer helt
 
 Stämmer inte alls 12345 Stämmer helt
 
-####Symptom och besvär
+#### Fysiska symptom och besvär
 
-#####25. Under de senaste tre månaderna har jag varit irriterad.
+#####25. Under de senaste tre månaderna har jag besvärats av värk i ryggen.
+
+Mycket ofta 12345 Aldrig
+
+#####26. Under de senaste tre månaderna har jag besvärats av värk i nacke/skuldror.
+
+Mycket ofta 12345 Aldrig
+
+#####27. Under de senaste tre månaderna har jag haft magbesvär.
+
+Mycket ofta 12345 Aldrig
+
+#####28. Under de senaste tre månaderna har jag haft ledbesvär.
+
+Mycket ofta 12345 Aldrig
+
+#### Psykiska symptom och besvär
+
+#####29. Under de senaste tre månaderna har jag varit irriterad.
 
 Mycket ofta 12345 Mycket sällan
 
-#####26. Under de senaste tre månaderna har jag haft ångest.
+#####30. Under de senaste tre månaderna har jag haft ångest.
 
 Mycket ofta 12345 Mycket sällan
 
-#####27. Under de senaste tre månaderna har jag varit ängslig.
+#####31. Under de senaste tre månaderna har jag varit ängslig.
 
 Mycket ofta 12345 Mycket sällan
 
-#####28. Under de senaste tre månaderna har jag fått hjärtklappning utan att jag har ansträngt mig fysiskt.
+#####32. Under de senaste tre månaderna har jag fått hjärtklappning utan att jag har ansträngt mig fysiskt.
 
 Mycket ofta 12345 aldrig
 
-#####29. Under de senaste tre månaderna har jag besvärats av huvudvärk.
+#####33. Under de senaste tre månaderna har jag besvärats av huvudvärk.
 
 Mycket ofta 12345 aldrig
 
-#####30. Under de senaste tre månaderna har jag besvärats av trötthet.
+#####34. Under de senaste tre månaderna har jag besvärats av trötthet.
 
 Mycket ofta 12345 Mycket sällan
 
-#####31. Under de senaste tre månaderna har jag sovit dåligt.
+#####35. Under de senaste tre månaderna har jag sovit dåligt.
 
 Mycket ofta 12345 Mycket sällan
 
-#####32. Under de senaste tre månaderna har jag haft svårt att koncentrera mig.
+#####36. Under de senaste tre månaderna har jag haft svårt att koncentrera mig.
 
 Mycket ofta 12345 Mycket sällan
-
-#####33. Under de senaste tre månaderna har jag besvärats av värk i ryggen.
-
-Mycket ofta 12345 Aldrig
-
-#####34. Under de senaste tre månaderna har jag besvärats av värk i nacke/skuldror.
-
-Mycket ofta 12345 Aldrig
-
-#####35. Under de senaste tre månaderna har jag haft magbesvär.
-
-Mycket ofta 12345 Aldrig
-
-#####36. Under de senaste tre månaderna har jag haft ledbesvär.
-
-Mycket ofta 12345 Aldrig
 
 ####Allmän hälsa
 
