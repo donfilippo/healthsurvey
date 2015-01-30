@@ -145,29 +145,29 @@ Mycket ofta 12345 Aldrig
 
 #####28. Under de senaste tre månaderna har jag haft ledbesvär.
 
+Mycket ofta 12345 aldrig
+
+#####29. Under de senaste tre månaderna har jag fått hjärtklappning utan att jag har ansträngt mig fysiskt.
+
+Mycket ofta 12345 aldrig
+
+#####30. Under de senaste tre månaderna har jag besvärats av huvudvärk.
+
 Mycket ofta 12345 Aldrig
 
 #### Psykiska symptom och besvär
 
-#####29. Under de senaste tre månaderna har jag varit irriterad.
+#####31. Under de senaste tre månaderna har jag varit irriterad.
 
 Mycket ofta 12345 Mycket sällan
 
-#####30. Under de senaste tre månaderna har jag haft ångest.
+#####32. Under de senaste tre månaderna har jag haft ångest.
 
 Mycket ofta 12345 Mycket sällan
 
-#####31. Under de senaste tre månaderna har jag varit ängslig.
+#####33. Under de senaste tre månaderna har jag varit ängslig.
 
 Mycket ofta 12345 Mycket sällan
-
-#####32. Under de senaste tre månaderna har jag fått hjärtklappning utan att jag har ansträngt mig fysiskt.
-
-Mycket ofta 12345 aldrig
-
-#####33. Under de senaste tre månaderna har jag besvärats av huvudvärk.
-
-Mycket ofta 12345 aldrig
 
 #####34. Under de senaste tre månaderna har jag besvärats av trötthet.
 
@@ -201,6 +201,8 @@ Stämmer inte alls 12345 Stämmer helt
 
 
 Anteckningar:
+Kategorin "Psykisk hälsa" kanske bör döpas om till "Mentalitet" eller "Mental hälsa" för att få tydligare distinktion mellan den kategorin och kategorin "Psykiska symptom och besvär". Om det görs är det tveksamt hur bra fråga 11 och 12 passar in i den kategorin - särskilt om den döps till "Mentalitet".
+
 Fråga 28: Kan behöva omformuleras. Formuleringen "utan att jag har ansträngt mig fysiskt" låter konstig.
 Fråga 31: "Kanske borde vara: Under de senaste tre månaderna har jag haft svårt att somna."
 
