@@ -45,19 +45,19 @@ Aldrig  Någon gång ibland 1-5 snus per dag  6-10 snus per dag över 10 snus pe
 
 #####6. Jag har allmänt bra självkänsla.
 
-Beskrivning av självkänsla:
+Beskrivning av självkänsla: Självkänsla handlar om hur vi upplever oss själva. Bra självkänsla innebär att man accepterar sig själv som man är, och att man således inte påverkas så mycket av andras tankar om en.
 
 Stämmer inte alls 12345 Stämmer helt
 
 #####7. Under de senaste tre månaderna har jag haft bra självförtroende på jobbet.
 
-Beskrivning av självförtroende:
+Beskrivning av självförtroende: Självförtroende handlar om tron på den egna prestationsförmågan. Bra självförtroende innebär att man litar på sin kompetens och kan utföra uppgifter och aktiviteter utan att behöva tvivla på sig själv.
 
 Stämmer inte alls 12345 Stämmer helt
 
 #####8. Under de senaste tre månaderna har jag haft bra självförtroende på fritiden.
 
-Beskrivning av självförtroende:
+Beskrivning av självförtroende: Självförtroende handlar om tron på den egna prestationsförmågan. Bra självförtroende innebär att man litar på sin kompetens och kan utföra uppgifter och aktiviteter utan att behöva tvivla på sig själv.
 
 Stämmer inte alls 12345 Stämmer helt
 
